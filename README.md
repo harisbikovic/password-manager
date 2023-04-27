@@ -11,7 +11,7 @@ You can do this by using the **"Password Manager" GUI App**.
 
 ## Installation
 Before you can use the Password Saver GUI App, you will need to have Python 3.6 or higher installed on your computer.
-If you don't have Python installed, you can download it from the official website: _https://www.python.org/downloads/_ation.
+If you don't have Python installed, you can download it from the official website: _https://www.python.org/downloads/_ation_.
 
 ### First way
 To install the app, simply clone the repository to your local machine:
